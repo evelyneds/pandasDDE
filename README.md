@@ -1,4 +1,5 @@
 # pandasDDE
  Quant Python Projet with Pandas and DDE
 
-Projeto Financeiro
+Projeto Financeiro Python
+
